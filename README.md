@@ -1,4 +1,24 @@
-## Hi there 👋
+👋 Hey, I'm Caleb 
+
+Frontend Developer | Shopify Store Builder  
+
+- 🌐 Specializing in Shopify store design & customization  
+- 💡 Turning ideas into clean, user-friendly websites  
+- 🛠️ Building with HTML, CSS, and Shopify (Liquid)  
+
+📬 Get in touch: caleboyeyippo@gmail.com    
+
+---
+
+💻 What I Work With  
+
+| Languages & Tools | Design & Skills |
+|------------------|----------------|
+| HTML             | UI/UX Basics   |
+| CSS              | Responsive Design |
+| Shopify          | Store Setup & Customization |
+| Liquid           | Product Page Design |
+| Git & GitHub     | Basic SEO      |
 
 <!--
 **caleboyeyipo/caleboyeyipo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
