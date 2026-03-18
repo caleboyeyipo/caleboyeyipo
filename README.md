@@ -6,7 +6,9 @@ Frontend Developer | Shopify Store Builder
 - 💡 Turning ideas into clean, user-friendly websites  
 - 🛠️ Building with HTML, CSS, and Shopify (Liquid)  
 
-📬 Get in touch: caleboyeyipo@gmail.com    
+📬 Get in touch: caleboyeyipo@gmail.com   
+Check out my Shopify store: [oyeyipo-enterprises](https://oyeyipo-enterprises.myshopify.com)  
+Password: 00000
 
 ---
 
